@@ -1,5 +1,6 @@
-Ruben Valencia - Vigenere Cipher Decryption  
-Project General Description:
+Ruben Valencia - Vigenere Cipher Decryption 
+
+June 7 2023
 
 The Vigenere Cipher is a classic encryption algorithm used to encrypt and decrypt messages. This program implements the Vigenere Cipher to secure communication by encrypting and decrypting messages. In this program, the user is prompted to enter a message and key, and the result is displayed on the screen. The program uses algorithms based on mathematical concepts, such as modular arithmetic and polyalphabetic substitution, to implement the Vigenere Cipher.
 
